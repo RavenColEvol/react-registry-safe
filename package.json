@@ -1,5 +1,5 @@
 {
-	"name": "@ravencolevol/react-registry",
+	"name": "@ravencolevol/react-registry-safe",
 	"version": "0.0.1",
 	"description": "A library for registering, retrieving, and creating React components.",
 	"main": "dist/index.js",
@@ -61,6 +61,6 @@
 	"homepage": "https://devnet.io/libs/react-registry",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/RavenColEvol/react-registry.git"
+		"url": "git://github.com/RavenColEvol/react-registry-safe.git"
 	}
 }
